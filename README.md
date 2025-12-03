@@ -1,6 +1,8 @@
 # clifit
 
-Get a pump without leaving the terminal
+No GUI, no excuses
+
+![demo](demo.gif)
 
 ## Run
 
